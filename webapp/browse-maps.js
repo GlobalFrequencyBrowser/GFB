@@ -19,7 +19,7 @@ function importHTML()
 {
  	srcFrame = document.getElementById("hiddenContent");
  	srcFrame.src = document.systemselect.system.value;
-	setTimeout("resetCombos()",150); 
+	setTimeout("resetCombos()",200); 
 }
 
 function copyHTML(target,quarry)
