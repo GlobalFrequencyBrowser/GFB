@@ -1,3 +1,6 @@
+# version 1.2.4 2/16/2026
+- bug fix - selecting DQA1, DQB1, or DRB1 in the locus dropdown did not select the first allele available for the aforementioned loci. fixed issue by revising values for which allele should be selected if the locus is changed.
+
 # version 1.2.3 6/12/2025
 - changed DQB1*02:03 to DQB1*02:180 (renamed in November 2020) and C*03:12 to C*03:307 (renamed in October 2015) in the Solberg dataset
 - added the null (N) expression variant to the A*26:11, B*51:27, B*13:07, B*51:44, and DPB1*61:01 alleles in the Solberg dataset
