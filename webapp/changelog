@@ -1,3 +1,6 @@
+## versio 1.0.5 7/27/27
+- added display: flex and justify-content: center to main compare UI panel so content is still centered if the user zooms out
+
 ## version 1.0.4 7/20/25
 - increased timeout on resetCombos() for dropdown appearance 
 
